@@ -1,0 +1,1173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260508092925Q9L3W6</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260508092925M6DCV5</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>¿Y si tu móvil pudiera arreglarlo? Proyecto ABR con App Inventor</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Digitalización 4º ESO</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Enrique Ramírez García</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Proyecto de Aprendizaje Basado en Retos para 4º de ESO en el que el alumnado crea una aplicación móvil con MIT App Inventor para resolver un problema real de su entorno.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777882124530</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-1777882215867-rkyj5pat2</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Inicio</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Inicio</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777882215867-rkyj5pat2</odePageId>
+      <odeBlockId>block-1777884505584-3lc98j3fb</odeBlockId>
+      <blockName>¿Y si tu móvil pudiera arreglarlo?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777882215867-rkyj5pat2</odePageId>
+          <odeBlockId>block-1777884505584-3lc98j3fb</odeBlockId>
+          <odeIdeviceId>idevice-1777884505583-hsrkx98c6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h4>Proyecto de Aprendizaje Basado en Retos con MIT App Inventor</h4>
+<p>Bienvenido/a a este proyecto de Digitalización para 4.º de ESO. A lo largo de estas páginas encontrarás todo lo que necesitas para desarrollar tu propia aplicación móvil y resolver un problema real de tu entorno.</p>
+<p>Este proyecto tiene una duración de 12 sesiones y trabajarás en grupos de 4 personas. Al finalizar, habrás programado una app funcional con MIT App Inventor, la habrás presentado ante tus compañeros y reflexionado sobre su impacto y sus implicaciones éticas.</p>
+<p>¿Qué vas a aprender?</p>
+<ul>
+<li>A identificar un problema real y diseñar una solución digital</li>
+<li>A programar una app con bloques en MIT App Inventor</li>
+<li>A trabajar en equipo con roles definidos</li>
+<li>A reflexionar sobre privacidad y responsabilidad digital</li>
+</ul>
+<p><strong>Materia:</strong> Digitalización <strong>Nivel:</strong> 4º ESO <strong>Duración:</strong> 12 sesiones <strong>Autor:</strong> Enrique Ramírez García</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777884505583-hsrkx98c6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h4>Proyecto de Aprendizaje Basado en Retos con MIT App Inventor</h4>\n<p>Bienvenido/a a este proyecto de Digitalización para 4.º de ESO. A lo largo de estas páginas encontrarás todo lo que necesitas para desarrollar tu propia aplicación móvil y resolver un problema real de tu entorno.</p>\n<p>Este proyecto tiene una duración de 12 sesiones y trabajarás en grupos de 4 personas. Al finalizar, habrás programado una app funcional con MIT App Inventor, la habrás presentado ante tus compañeros y reflexionado sobre su impacto y sus implicaciones éticas.</p>\n<p>¿Qué vas a aprender?</p>\n<ul>\n<li>A identificar un problema real y diseñar una solución digital</li>\n<li>A programar una app con bloques en MIT App Inventor</li>\n<li>A trabajar en equipo con roles definidos</li>\n<li>A reflexionar sobre privacidad y responsabilidad digital</li>\n</ul>\n<p><strong>Materia:</strong> Digitalización <strong>Nivel:</strong> 4º ESO <strong>Duración:</strong> 12 sesiones <strong>Autor:</strong> Enrique Ramírez García</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777882227094-vqn4uq4a2</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Descripción del proyecto</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777882227094-vqn4uq4a2</odePageId>
+      <odeBlockId>block-1777884992026-x46j6m295</odeBlockId>
+      <blockName>Descripción del proyecto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777882227094-vqn4uq4a2</odePageId>
+          <odeBlockId>block-1777884992026-x46j6m295</odeBlockId>
+          <odeIdeviceId>idevice-1777884992023-878yngyo6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Este proyecto de Aprendizaje Basado en Retos (ABR) propone al alumnado de 4.º de ESO una pregunta-reto: ¿qué problema real de tu entorno podrías resolver con una aplicación móvil?</p>
+<p>El alumnado diseña, programa y presenta una app funcional usando MIT App Inventor, una herramienta de programación visual por bloques que funciona directamente desde el navegador sin necesidad de instalación.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777884992023-878yngyo6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este proyecto de Aprendizaje Basado en Retos (ABR) propone al alumnado de 4.º de ESO una pregunta-reto: ¿qué problema real de tu entorno podrías resolver con una aplicación móvil?</p>\n<p>El alumnado diseña, programa y presenta una app funcional usando MIT App Inventor, una herramienta de programación visual por bloques que funciona directamente desde el navegador sin necesidad de instalación.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777882227094-vqn4uq4a2</odePageId>
+      <odeBlockId>block-1777885048208-sm1liu1fe</odeBlockId>
+      <blockName>Datos del proyecto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777882227094-vqn4uq4a2</odePageId>
+          <odeBlockId>block-1777885048208-sm1liu1fe</odeBlockId>
+          <odeIdeviceId>idevice-1777885048206-1g31t4qlc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li><span style="text-decoration: underline;"><strong>Materia:</strong></span> Digitalización</li>
+<li><span style="text-decoration: underline;"><strong>Nivel:</strong></span> 4º ESO</li>
+<li><span style="text-decoration: underline;"><strong>Duración:</strong></span> 12 sesiones de 50 minutos (6 semanas)</li>
+<li><span style="text-decoration: underline;"><strong>Agrupamiento:</strong></span> Grupos de 4 alumnos/as</li>
+<li><span style="text-decoration: underline;"><strong>Espacio:</strong></span> Aula de informática</li>
+<li><span style="text-decoration: underline;"><strong>Herramientas:</strong></span> MIT App Inventor 2, Canva, Screencastify, Google Classroom</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777885048206-1g31t4qlc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li><span style=\"text-decoration: underline;\"><strong>Materia:</strong></span> Digitalización</li>\n<li><span style=\"text-decoration: underline;\"><strong>Nivel:</strong></span> 4º ESO</li>\n<li><span style=\"text-decoration: underline;\"><strong>Duración:</strong></span> 12 sesiones de 50 minutos (6 semanas)</li>\n<li><span style=\"text-decoration: underline;\"><strong>Agrupamiento:</strong></span> Grupos de 4 alumnos/as</li>\n<li><span style=\"text-decoration: underline;\"><strong>Espacio:</strong></span> Aula de informática</li>\n<li><span style=\"text-decoration: underline;\"><strong>Herramientas:</strong></span> MIT App Inventor 2, Canva, Screencastify, Google Classroom</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777882227094-vqn4uq4a2</odePageId>
+      <odeBlockId>block-1777885229037-isrq0ts38</odeBlockId>
+      <blockName>Fases del proyecto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777882227094-vqn4uq4a2</odePageId>
+          <odeBlockId>block-1777885229037-isrq0ts38</odeBlockId>
+          <odeIdeviceId>idevice-1777885229035-zozlip4t3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ol>
+<li><span style="text-decoration: underline;"><strong>Sesiones 1-2:</strong></span> Presentación del reto y elección del problema</li>
+<li><span style="text-decoration: underline;"><strong>Sesiones 3-4:</strong></span> Repaso de App Inventor con mini-proyecto</li>
+<li><span style="text-decoration: underline;"><strong>Sesiones 5-6:</strong></span> Diseño de la interfaz</li>
+<li><span style="text-decoration: underline;"><strong>Sesiones 7-9:</strong></span> Programación de la lógica</li>
+<li><span style="text-decoration: underline;"><strong>Sesiones 10-11:</strong></span> Pruebas y depuración</li>
+<li><span style="text-decoration: underline;"><strong>Sesión 12:</strong></span> Presentación oral y entrega final</li>
+</ol>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777885229035-zozlip4t3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ol>\n<li><span style=\"text-decoration: underline;\"><strong>Sesiones 1-2:</strong></span> Presentación del reto y elección del problema</li>\n<li><span style=\"text-decoration: underline;\"><strong>Sesiones 3-4:</strong></span> Repaso de App Inventor con mini-proyecto</li>\n<li><span style=\"text-decoration: underline;\"><strong>Sesiones 5-6:</strong></span> Diseño de la interfaz</li>\n<li><span style=\"text-decoration: underline;\"><strong>Sesiones 7-9:</strong></span> Programación de la lógica</li>\n<li><span style=\"text-decoration: underline;\"><strong>Sesiones 10-11:</strong></span> Pruebas y depuración</li>\n<li><span style=\"text-decoration: underline;\"><strong>Sesión 12:</strong></span> Presentación oral y entrega final</li>\n</ol>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777882227094-vqn4uq4a2</odePageId>
+      <odeBlockId>block-1777885297309-tlhcqhi7k</odeBlockId>
+      <blockName>Justificación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777882227094-vqn4uq4a2</odePageId>
+          <odeBlockId>block-1777885297309-tlhcqhi7k</odeBlockId>
+          <odeIdeviceId>idevice-1777885297307-ha89lced8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La elección de este proyecto surge de la reflexión sobre la práctica docente propia. La experiencia previa con actividades digitales en el aula mostró la necesidad de usar herramientas que funcionen desde el navegador sin instalación, de desarrollar en el alumnado la autonomía para resolver problemas técnicos, y de integrar la reflexión ética sobre privacidad y datos como parte del aprendizaje.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777885297307-ha89lced8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La elección de este proyecto surge de la reflexión sobre la práctica docente propia. La experiencia previa con actividades digitales en el aula mostró la necesidad de usar herramientas que funcionen desde el navegador sin instalación, de desarrollar en el alumnado la autonomía para resolver problemas técnicos, y de integrar la reflexión ética sobre privacidad y datos como parte del aprendizaje.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777882242400-0w8zg97i9</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Seguridad Digital</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Seguridad Digital</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777882242400-0w8zg97i9</odePageId>
+      <odeBlockId>block-1777885430332-qmywg8n5w</odeBlockId>
+      <blockName>Seguridad digital: Protege tu información</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777882242400-0w8zg97i9</odePageId>
+          <odeBlockId>block-1777885430332-qmywg8n5w</odeBlockId>
+          <odeIdeviceId>idevice-1777885430330-s31jb23es</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Antes de comenzar a crear tu app, es importante que conozcas tus derechos digitales y sepas cómo proteger tu información personal. Como desarrollador/a de una aplicación, serás responsable de los datos que tu app gestione.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777885430330-s31jb23es","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Antes de comenzar a crear tu app, es importante que conozcas tus derechos digitales y sepas cómo proteger tu información personal. Como desarrollador/a de una aplicación, serás responsable de los datos que tu app gestione.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777882242400-0w8zg97i9</odePageId>
+      <odeBlockId>block-1777885459184-de39sgkuo</odeBlockId>
+      <blockName>¿Por qué es importante esto en nuestro proyecto?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777882242400-0w8zg97i9</odePageId>
+          <odeBlockId>block-1777885459184-de39sgkuo</odeBlockId>
+          <odeIdeviceId>idevice-1777885459182-gah5snris</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Cuando programes tu app con App Inventor, tendrás que pensar en qué datos recoge tu aplicación, quién puede acceder a ellos y si es realmente necesario recogerlos. Estas preguntas no son solo técnicas, son éticas.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777885459182-gah5snris","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Cuando programes tu app con App Inventor, tendrás que pensar en qué datos recoge tu aplicación, quién puede acceder a ellos y si es realmente necesario recogerlos. Estas preguntas no son solo técnicas, son éticas.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777882242400-0w8zg97i9</odePageId>
+      <odeBlockId>block-1777889070926-uhm2ddz8a</odeBlockId>
+      <blockName>Infografía Seguridad Digital</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777882242400-0w8zg97i9</odePageId>
+          <odeBlockId>block-1777889070926-uhm2ddz8a</odeBlockId>
+          <odeIdeviceId>idevice-1777889070924-u7we5ye07</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1777889070924-u7we5ye07" title="" href="{{context_path}}/content/resources/infografia_seguridad_digital.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/infografia_seguridad_digital.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777889070924-u7we5ye07","img_1":{"img":"{{context_path}}/content/resources/infografia_seguridad_digital.jpg","thumbnail":"{{context_path}}/content/resources/infografia_seguridad_digital.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777882257850-tk5tyr0vx</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Recursos para el alumnado</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos para el alumnado</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777882257850-tk5tyr0vx</odePageId>
+      <odeBlockId>block-1777889497377-tw2cfgmve</odeBlockId>
+      <blockName>Recursos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777882257850-tk5tyr0vx</odePageId>
+          <odeBlockId>block-1777889497377-tw2cfgmve</odeBlockId>
+          <odeIdeviceId>idevice-1777889497369-4db5wgzn4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta página encontrarás todos los recursos que necesitas para desarrollar tu proyecto. Consúltalos cuando tengas dudas durante el proceso de programación.</p>
+<p><span style="text-decoration: underline;"><strong>Tutoriales y documentación de App Inventor</strong></span></p>
+<ul>
+<li>Página oficial de MIT App Inventor: appinventor.mit.edu</li>
+<li>Acceso al emulador online (si no tienes móvil Android): ai2.appinventor.mit.edu</li>
+<li>Canal oficial de YouTube con videotutoriales: youtube.com/@MITAppInventor</li>
+</ul>
+<p><span style="text-decoration: underline;"><strong>¿Cómo empezar?</strong></span></p>
+<ol>
+<li>Entra en appinventor.mit.edu con tu cuenta de Google</li>
+<li>Haz clic en "Crear aplicaciones"</li>
+<li>Crea un proyecto nuevo con el nombre de tu grupo</li>
+<li>Comparte el proyecto con todos los miembros del grupo desde el menú Archivo</li>
+</ol>
+<p><span style="text-decoration: underline;"><strong>Guía de errores frecuentes</strong></span></p>
+<ul>
+<li>Si la app no responde a un botón: comprueba que el evento del botón está conectado a un bloque de acción</li>
+<li>Si una variable no guarda el valor: asegúrate de que usas "asignar" y no "obtener"</li>
+<li>Si el emulador no conecta: recarga la página y vuelve a escanear el QR</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777889497369-4db5wgzn4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta página encontrarás todos los recursos que necesitas para desarrollar tu proyecto. Consúltalos cuando tengas dudas durante el proceso de programación.</p>\n<p><span style=\"text-decoration: underline;\"><strong>Tutoriales y documentación de App Inventor</strong></span></p>\n<ul>\n<li>Página oficial de MIT App Inventor: appinventor.mit.edu</li>\n<li>Acceso al emulador online (si no tienes móvil Android): ai2.appinventor.mit.edu</li>\n<li>Canal oficial de YouTube con videotutoriales: youtube.com/@MITAppInventor</li>\n</ul>\n<p><span style=\"text-decoration: underline;\"><strong>¿Cómo empezar?</strong></span></p>\n<ol>\n<li>Entra en appinventor.mit.edu con tu cuenta de Google</li>\n<li>Haz clic en \"Crear aplicaciones\"</li>\n<li>Crea un proyecto nuevo con el nombre de tu grupo</li>\n<li>Comparte el proyecto con todos los miembros del grupo desde el menú Archivo</li>\n</ol>\n<p><span style=\"text-decoration: underline;\"><strong>Guía de errores frecuentes</strong></span></p>\n<ul>\n<li>Si la app no responde a un botón: comprueba que el evento del botón está conectado a un bloque de acción</li>\n<li>Si una variable no guarda el valor: asegúrate de que usas \"asignar\" y no \"obtener\"</li>\n<li>Si el emulador no conecta: recarga la página y vuelve a escanear el QR</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777882257850-tk5tyr0vx</odePageId>
+      <odeBlockId>block-1777889747057-kgcr0pohc</odeBlockId>
+      <blockName>Sitio web externo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777882257850-tk5tyr0vx</odePageId>
+          <odeBlockId>block-1777889747057-kgcr0pohc</odeBlockId>
+          <odeIdeviceId>idevice-1777889747055-moae2mad2</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://padlet.com/acosokikoso/recursos-para-el-proyecto-app-inventor-digitalizacion-4-eso-6brufz17tf1c0k73" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777882268708-bva2oj3vu</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Línea temporal y criterios</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal y criterios</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777882268708-bva2oj3vu</odePageId>
+      <odeBlockId>block-1777889836816-iwsf6p781</odeBlockId>
+      <blockName>Línea Temporal y Criterios</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777882268708-bva2oj3vu</odePageId>
+          <odeBlockId>block-1777889836816-iwsf6p781</odeBlockId>
+          <odeIdeviceId>idevice-1777889836812-nbfbxurhi</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta página encontrarás la organización del proyecto: cómo se distribuyen las sesiones, qué harás en cada una y qué se evaluará.</p>
+<table border="2" style="width: 100.047%; height: 301.6px; border-color: #000000; border-style: solid;">
+<tbody>
+<tr style="height: 32.8px;">
+<td style="width: 19.9704%; height: 32.8px; text-align: center;"><strong>Sesiones</strong></td>
+<td style="width: 19.9704%; height: 32.8px; text-align: center;"><strong>Semana</strong></td>
+<td style="width: 19.9704%; height: 32.8px; text-align: center;"><strong>Tarea</strong></td>
+<td style="width: 19.9704%; height: 32.8px; text-align: center;"><strong>Agrupamiento</strong></td>
+<td style="width: 19.9764%; height: 32.8px; text-align: center;"><strong>Herramienta</strong></td>
+</tr>
+<tr style="height: 56.8px;">
+<td style="width: 19.9704%; height: 56.8px; text-align: center;">1-2</td>
+<td style="width: 19.9704%; height: 56.8px; text-align: center;">1</td>
+<td style="width: 19.9704%; height: 56.8px; text-align: center;">Presentación del reto y elección del problema</td>
+<td style="width: 19.9704%; height: 56.8px; text-align: center;">Grupos de 4</td>
+<td style="width: 19.9764%; height: 56.8px; text-align: center;">Classroom + Canva</td>
+</tr>
+<tr style="height: 56.8px;">
+<td style="width: 19.9704%; height: 56.8px; text-align: center;">3-4</td>
+<td style="width: 19.9704%; height: 56.8px; text-align: center;">2</td>
+<td style="width: 19.9704%; height: 56.8px; text-align: center;">Repaso de App Inventor con mini-proyecto</td>
+<td style="width: 19.9704%; height: 56.8px; text-align: center;">Individual</td>
+<td style="width: 19.9764%; height: 56.8px; text-align: center;">App inventor 2</td>
+</tr>
+<tr style="height: 32.8px;">
+<td style="width: 19.9704%; height: 32.8px; text-align: center;">5-6</td>
+<td style="width: 19.9704%; height: 32.8px; text-align: center;">3</td>
+<td style="width: 19.9704%; height: 32.8px; text-align: center;">Diseño de la interfaz</td>
+<td style="width: 19.9704%; height: 32.8px; text-align: center;">Grupos de 4</td>
+<td style="width: 19.9764%; height: 32.8px; text-align: center;">App inventor 2</td>
+</tr>
+<tr style="height: 32.8px;">
+<td style="width: 19.9704%; height: 32.8px; text-align: center;">7-9</td>
+<td style="width: 19.9704%; height: 32.8px; text-align: center;">4-5</td>
+<td style="width: 19.9704%; height: 32.8px; text-align: center;">Programación de la lógica</td>
+<td style="width: 19.9704%; height: 32.8px; text-align: center;">Grupos de 4</td>
+<td style="width: 19.9764%; height: 32.8px; text-align: center;">App inventor 2</td>
+</tr>
+<tr style="height: 32.8px;">
+<td style="width: 19.9704%; height: 32.8px; text-align: center;">10-11</td>
+<td style="width: 19.9704%; height: 32.8px; text-align: center;">5</td>
+<td style="width: 19.9704%; height: 32.8px; text-align: center;"> Pruebas y depuración</td>
+<td style="width: 19.9704%; height: 32.8px; text-align: center;">Grupos de 4</td>
+<td style="width: 19.9764%; height: 32.8px; text-align: center;">App inventor 2 + emulador</td>
+</tr>
+<tr style="height: 56.8px;">
+<td style="width: 19.9704%; height: 56.8px; text-align: center;">12</td>
+<td style="width: 19.9704%; height: 56.8px; text-align: center;">6</td>
+<td style="width: 19.9704%; height: 56.8px; text-align: center;"> Presentación oral y entrega final</td>
+<td style="width: 19.9704%; height: 56.8px; text-align: center;">Grupos de 4</td>
+<td style="width: 19.9764%; height: 56.8px; text-align: center;">Canva + Screencastify + Classroom</td>
+</tr>
+</tbody>
+</table>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777889836812-nbfbxurhi","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta página encontrarás la organización del proyecto: cómo se distribuyen las sesiones, qué harás en cada una y qué se evaluará.</p>\n<table border=\"2\" style=\"width: 100.047%; height: 301.6px; border-color: #000000; border-style: solid;\">\n<tbody>\n<tr style=\"height: 32.8px;\">\n<td style=\"width: 19.9704%; height: 32.8px; text-align: center;\"><strong>Sesiones</strong></td>\n<td style=\"width: 19.9704%; height: 32.8px; text-align: center;\"><strong>Semana</strong></td>\n<td style=\"width: 19.9704%; height: 32.8px; text-align: center;\"><strong>Tarea</strong></td>\n<td style=\"width: 19.9704%; height: 32.8px; text-align: center;\"><strong>Agrupamiento</strong></td>\n<td style=\"width: 19.9764%; height: 32.8px; text-align: center;\"><strong>Herramienta</strong></td>\n</tr>\n<tr style=\"height: 56.8px;\">\n<td style=\"width: 19.9704%; height: 56.8px; text-align: center;\">1-2</td>\n<td style=\"width: 19.9704%; height: 56.8px; text-align: center;\">1</td>\n<td style=\"width: 19.9704%; height: 56.8px; text-align: center;\">Presentación del reto y elección del problema</td>\n<td style=\"width: 19.9704%; height: 56.8px; text-align: center;\">Grupos de 4</td>\n<td style=\"width: 19.9764%; height: 56.8px; text-align: center;\">Classroom + Canva</td>\n</tr>\n<tr style=\"height: 56.8px;\">\n<td style=\"width: 19.9704%; height: 56.8px; text-align: center;\">3-4</td>\n<td style=\"width: 19.9704%; height: 56.8px; text-align: center;\">2</td>\n<td style=\"width: 19.9704%; height: 56.8px; text-align: center;\">Repaso de App Inventor con mini-proyecto</td>\n<td style=\"width: 19.9704%; height: 56.8px; text-align: center;\">Individual</td>\n<td style=\"width: 19.9764%; height: 56.8px; text-align: center;\">App inventor 2</td>\n</tr>\n<tr style=\"height: 32.8px;\">\n<td style=\"width: 19.9704%; height: 32.8px; text-align: center;\">5-6</td>\n<td style=\"width: 19.9704%; height: 32.8px; text-align: center;\">3</td>\n<td style=\"width: 19.9704%; height: 32.8px; text-align: center;\">Diseño de la interfaz</td>\n<td style=\"width: 19.9704%; height: 32.8px; text-align: center;\">Grupos de 4</td>\n<td style=\"width: 19.9764%; height: 32.8px; text-align: center;\">App inventor 2</td>\n</tr>\n<tr style=\"height: 32.8px;\">\n<td style=\"width: 19.9704%; height: 32.8px; text-align: center;\">7-9</td>\n<td style=\"width: 19.9704%; height: 32.8px; text-align: center;\">4-5</td>\n<td style=\"width: 19.9704%; height: 32.8px; text-align: center;\">Programación de la lógica</td>\n<td style=\"width: 19.9704%; height: 32.8px; text-align: center;\">Grupos de 4</td>\n<td style=\"width: 19.9764%; height: 32.8px; text-align: center;\">App inventor 2</td>\n</tr>\n<tr style=\"height: 32.8px;\">\n<td style=\"width: 19.9704%; height: 32.8px; text-align: center;\">10-11</td>\n<td style=\"width: 19.9704%; height: 32.8px; text-align: center;\">5</td>\n<td style=\"width: 19.9704%; height: 32.8px; text-align: center;\"> Pruebas y depuración</td>\n<td style=\"width: 19.9704%; height: 32.8px; text-align: center;\">Grupos de 4</td>\n<td style=\"width: 19.9764%; height: 32.8px; text-align: center;\">App inventor 2 + emulador</td>\n</tr>\n<tr style=\"height: 56.8px;\">\n<td style=\"width: 19.9704%; height: 56.8px; text-align: center;\">12</td>\n<td style=\"width: 19.9704%; height: 56.8px; text-align: center;\">6</td>\n<td style=\"width: 19.9704%; height: 56.8px; text-align: center;\"> Presentación oral y entrega final</td>\n<td style=\"width: 19.9704%; height: 56.8px; text-align: center;\">Grupos de 4</td>\n<td style=\"width: 19.9764%; height: 56.8px; text-align: center;\">Canva + Screencastify + Classroom</td>\n</tr>\n</tbody>\n</table>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777882268708-bva2oj3vu</odePageId>
+      <odeBlockId>block-1777890326846-q2ryi3ti4</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777882268708-bva2oj3vu</odePageId>
+          <odeBlockId>block-1777890326846-q2ryi3ti4</odeBlockId>
+          <odeIdeviceId>idevice-1777890326845-5qrpvd3ds</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1777890326845-5qrpvd3ds" title="" href="{{context_path}}/content/resources/linea_temporal.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/linea_temporal.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777890326845-5qrpvd3ds","img_0":{"img":"{{context_path}}/content/resources/linea_temporal.jpg","thumbnail":"{{context_path}}/content/resources/linea_temporal.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777882279158-3ykx3ezhf</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777882279158-3ykx3ezhf</odePageId>
+      <odeBlockId>block-1777890752616-iyd1823to</odeBlockId>
+      <blockName>Instrumentos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777882279158-3ykx3ezhf</odePageId>
+          <odeBlockId>block-1777890752616-iyd1823to</odeBlockId>
+          <odeIdeviceId>idevice-1777890752615-ct2pahqzg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para evaluar este proyecto utilizamos dos instrumentos complementarios que nos permiten ver el aprendizaje desde dos perspectivas distintas: la del docente y la tuya propia.</p>
+<p><span style="text-decoration: underline;"><strong>Instrumento 1: Rúbrica de evaluación docente</strong></span></p>
+<p>Se aplica en la sesión 12, una vez que cada grupo ha presentado su trabajo. Evalúa seis dimensiones:</p>
+<ul>
+<li>Identificación del problema y diseño de la solución</li>
+<li>Programación: lógica, eventos y variables</li>
+<li>Diseño de la interfaz (usabilidad)</li>
+<li>Trabajo en equipo y reparto de roles</li>
+<li>Presentación oral y demo en vídeo</li>
+<li>Reflexión ética sobre privacidad y datos de la app</li>
+</ul>
+<p><span style="text-decoration: underline;"><strong>Instrumento 2: Diana de autoevaluación</strong></span></p>
+<p>La completas tú de forma individual al finalizar el proyecto. No genera una nota directa, sino que te ayuda a reflexionar sobre tu propio proceso de aprendizaje. Al final hay una pregunta abierta: ¿qué es lo que más has aprendido? ¿qué cambiarías?</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777890752615-ct2pahqzg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para evaluar este proyecto utilizamos dos instrumentos complementarios que nos permiten ver el aprendizaje desde dos perspectivas distintas: la del docente y la tuya propia.</p>\n<p><span style=\"text-decoration: underline;\"><strong>Instrumento 1: Rúbrica de evaluación docente</strong></span></p>\n<p>Se aplica en la sesión 12, una vez que cada grupo ha presentado su trabajo. Evalúa seis dimensiones:</p>\n<ul>\n<li>Identificación del problema y diseño de la solución</li>\n<li>Programación: lógica, eventos y variables</li>\n<li>Diseño de la interfaz (usabilidad)</li>\n<li>Trabajo en equipo y reparto de roles</li>\n<li>Presentación oral y demo en vídeo</li>\n<li>Reflexión ética sobre privacidad y datos de la app</li>\n</ul>\n<p><span style=\"text-decoration: underline;\"><strong>Instrumento 2: Diana de autoevaluación</strong></span></p>\n<p>La completas tú de forma individual al finalizar el proyecto. No genera una nota directa, sino que te ayuda a reflexionar sobre tu propio proceso de aprendizaje. Al final hay una pregunta abierta: ¿qué es lo que más has aprendido? ¿qué cambiarías?</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777882279158-3ykx3ezhf</odePageId>
+      <odeBlockId>block-1777891182358-744xsa6c2</odeBlockId>
+      <blockName>Sitio web externo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777882279158-3ykx3ezhf</odePageId>
+          <odeBlockId>block-1777891182358-744xsa6c2</odeBlockId>
+          <odeIdeviceId>idevice-1777891182357-fgmvxk5tj</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://docs.google.com/document/d/e/2PACX-1vSL01GfolmhBTX5W0a60SNPdv6DQjaYe7r492rcfIqadaYXznlmSyIdRI-ItW9ebvURq2V-iVD8-Gt6/pub" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777882292638-z6vpfk5tx</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777882292638-z6vpfk5tx</odePageId>
+      <odeBlockId>block-1777891360967-6n2cmimob</odeBlockId>
+      <blockName>Guía Didáctica</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777882292638-z6vpfk5tx</odePageId>
+          <odeBlockId>block-1777891360967-6n2cmimob</odeBlockId>
+          <odeIdeviceId>idevice-1777891360966-8gb501vxk</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta página está dirigida al profesorado que quiera utilizar o adaptar este proyecto en su aula.</p>
+<p><span style="text-decoration: underline;"><strong>Descripción del proyecto</strong></span></p>
+<p>Proyecto de Aprendizaje Basado en Retos (ABR) para Digitalización de 4.º ESO en el que el alumnado crea una aplicación móvil con MIT App Inventor para resolver un problema real de su entorno. Duración: 12 sesiones de 50 minutos distribuidas en 6 semanas.</p>
+<p><span style="text-decoration: underline;"><strong>Competencias específicas trabajadas</strong></span></p>
+<ul>
+<li>Pensamiento computacional y resolución de problemas mediante programación por bloques</li>
+<li>Ciudadanía digital: privacidad, huella digital y uso responsable de la tecnología</li>
+<li>Creación de contenidos digitales con herramientas diversas</li>
+<li>Comunicación y presentación de proyectos en entornos digitales</li>
+</ul>
+<p><span style="text-decoration: underline;"><strong>Relación de tareas con criterios de evaluación</strong></span></p>
+<table border="1" style="width: 100.047%; height: 253.6px;">
+<tbody>
+<tr style="height: 56.8px;">
+<td style="width: 19.9704%; height: 56.8px;">Tarea</td>
+<td style="width: 19.9704%; height: 56.8px;">Criterio de <br />Evaluación</td>
+<td style="width: 19.9704%; height: 56.8px;">Agrupamiento</td>
+<td style="width: 19.9704%; height: 56.8px;">Tiempo</td>
+<td style="width: 19.9764%; height: 56.8px;">Herramienta</td>
+</tr>
+<tr style="height: 32.8px;">
+<td style="width: 19.9704%; height: 32.8px;">Presentación del reto</td>
+<td style="width: 19.9704%; height: 32.8px;">DIG.4.1. Identificar necesidades del entorno</td>
+<td style="width: 19.9704%; height: 32.8px;">Grupos de 4</td>
+<td style="width: 19.9704%; height: 32.8px;">2 sesiones</td>
+<td style="width: 19.9764%; height: 32.8px;">Classroom + Canva</td>
+</tr>
+<tr style="height: 32.8px;">
+<td style="width: 19.9704%; height: 32.8px;">Repaso App Inventor</td>
+<td style="width: 19.9704%; height: 32.8px;">DIG.4.2. Pensamiento computacional</td>
+<td style="width: 19.9704%; height: 32.8px;">Grupos de 4</td>
+<td style="width: 19.9704%; height: 32.8px;">2 sesiones</td>
+<td style="width: 19.9764%; height: 32.8px;">App Inventor 2</td>
+</tr>
+<tr style="height: 32.8px;">
+<td style="width: 19.9704%; height: 32.8px;">Diseño de interfaz</td>
+<td style="width: 19.9704%; height: 32.8px;">DIG.4.2. Pensamiento computacional</td>
+<td style="width: 19.9704%; height: 32.8px;">Grupos de 4</td>
+<td style="width: 19.9704%; height: 32.8px;">2 sesiones</td>
+<td style="width: 19.9764%; height: 32.8px;">App Inventor 2</td>
+</tr>
+<tr style="height: 32.8px;">
+<td style="width: 19.9704%; height: 32.8px;">Programación lógica</td>
+<td style="width: 19.9704%; height: 32.8px;">DIG.4.3. Programación por bloques</td>
+<td style="width: 19.9704%; height: 32.8px;">Grupos de 4</td>
+<td style="width: 19.9704%; height: 32.8px;">2 sesiones</td>
+<td style="width: 19.9764%; height: 32.8px;">App Inventor 2</td>
+</tr>
+<tr style="height: 32.8px;">
+<td style="width: 19.9704%; height: 32.8px;">Pruebas y depuración</td>
+<td style="width: 19.9704%; height: 32.8px;">DIG.4.3. Programación por bloques</td>
+<td style="width: 19.9704%; height: 32.8px;">Grupos de 4</td>
+<td style="width: 19.9704%; height: 32.8px;">2 sesiones</td>
+<td style="width: 19.9764%; height: 32.8px;">App Inventor 2</td>
+</tr>
+<tr style="height: 32.8px;">
+<td style="width: 19.9704%; height: 32.8px;">Presentación y entrega</td>
+<td style="width: 19.9704%; height: 32.8px;">DIG.1.3. Comunicación digital responsable</td>
+<td style="width: 19.9704%; height: 32.8px;">Grupos de 4</td>
+<td style="width: 19.9704%; height: 32.8px;">1 sesión</td>
+<td style="width: 19.9764%; height: 32.8px;">Canva + Screencastify</td>
+</tr>
+</tbody>
+</table>
+<p><br /></p>
+<p><span style="text-decoration: underline;"><strong>Recomendaciones para la implementación</strong></span></p>
+<ul>
+<li>Verificar el estado de los equipos y la conectividad antes de cada sesión.</li>
+<li>Preparar una guía de errores frecuentes de App Inventor para que el alumnado resuelva incidencias de forma autónoma.</li>
+<li>Asignar un rol rotatorio de responsable técnico en cada grupo.</li>
+<li>Tener preparada siempre una alternativa offline por si falla la red.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777891360966-8gb501vxk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta página está dirigida al profesorado que quiera utilizar o adaptar este proyecto en su aula.</p>\n<p><span style=\"text-decoration: underline;\"><strong>Descripción del proyecto</strong></span></p>\n<p>Proyecto de Aprendizaje Basado en Retos (ABR) para Digitalización de 4.º ESO en el que el alumnado crea una aplicación móvil con MIT App Inventor para resolver un problema real de su entorno. Duración: 12 sesiones de 50 minutos distribuidas en 6 semanas.</p>\n<p><span style=\"text-decoration: underline;\"><strong>Competencias específicas trabajadas</strong></span></p>\n<ul>\n<li>Pensamiento computacional y resolución de problemas mediante programación por bloques</li>\n<li>Ciudadanía digital: privacidad, huella digital y uso responsable de la tecnología</li>\n<li>Creación de contenidos digitales con herramientas diversas</li>\n<li>Comunicación y presentación de proyectos en entornos digitales</li>\n</ul>\n<p><span style=\"text-decoration: underline;\"><strong>Relación de tareas con criterios de evaluación</strong></span></p>\n<table border=\"1\" style=\"width: 100.047%; height: 253.6px;\">\n<tbody>\n<tr style=\"height: 56.8px;\">\n<td style=\"width: 19.9704%; height: 56.8px;\">Tarea</td>\n<td style=\"width: 19.9704%; height: 56.8px;\">Criterio de <br />Evaluación</td>\n<td style=\"width: 19.9704%; height: 56.8px;\">Agrupamiento</td>\n<td style=\"width: 19.9704%; height: 56.8px;\">Tiempo</td>\n<td style=\"width: 19.9764%; height: 56.8px;\">Herramienta</td>\n</tr>\n<tr style=\"height: 32.8px;\">\n<td style=\"width: 19.9704%; height: 32.8px;\">Presentación del reto</td>\n<td style=\"width: 19.9704%; height: 32.8px;\">DIG.4.1. Identificar necesidades del entorno</td>\n<td style=\"width: 19.9704%; height: 32.8px;\">Grupos de 4</td>\n<td style=\"width: 19.9704%; height: 32.8px;\">2 sesiones</td>\n<td style=\"width: 19.9764%; height: 32.8px;\">Classroom + Canva</td>\n</tr>\n<tr style=\"height: 32.8px;\">\n<td style=\"width: 19.9704%; height: 32.8px;\">Repaso App Inventor</td>\n<td style=\"width: 19.9704%; height: 32.8px;\">DIG.4.2. Pensamiento computacional</td>\n<td style=\"width: 19.9704%; height: 32.8px;\">Grupos de 4</td>\n<td style=\"width: 19.9704%; height: 32.8px;\">2 sesiones</td>\n<td style=\"width: 19.9764%; height: 32.8px;\">App Inventor 2</td>\n</tr>\n<tr style=\"height: 32.8px;\">\n<td style=\"width: 19.9704%; height: 32.8px;\">Diseño de interfaz</td>\n<td style=\"width: 19.9704%; height: 32.8px;\">DIG.4.2. Pensamiento computacional</td>\n<td style=\"width: 19.9704%; height: 32.8px;\">Grupos de 4</td>\n<td style=\"width: 19.9704%; height: 32.8px;\">2 sesiones</td>\n<td style=\"width: 19.9764%; height: 32.8px;\">App Inventor 2</td>\n</tr>\n<tr style=\"height: 32.8px;\">\n<td style=\"width: 19.9704%; height: 32.8px;\">Programación lógica</td>\n<td style=\"width: 19.9704%; height: 32.8px;\">DIG.4.3. Programación por bloques</td>\n<td style=\"width: 19.9704%; height: 32.8px;\">Grupos de 4</td>\n<td style=\"width: 19.9704%; height: 32.8px;\">2 sesiones</td>\n<td style=\"width: 19.9764%; height: 32.8px;\">App Inventor 2</td>\n</tr>\n<tr style=\"height: 32.8px;\">\n<td style=\"width: 19.9704%; height: 32.8px;\">Pruebas y depuración</td>\n<td style=\"width: 19.9704%; height: 32.8px;\">DIG.4.3. Programación por bloques</td>\n<td style=\"width: 19.9704%; height: 32.8px;\">Grupos de 4</td>\n<td style=\"width: 19.9704%; height: 32.8px;\">2 sesiones</td>\n<td style=\"width: 19.9764%; height: 32.8px;\">App Inventor 2</td>\n</tr>\n<tr style=\"height: 32.8px;\">\n<td style=\"width: 19.9704%; height: 32.8px;\">Presentación y entrega</td>\n<td style=\"width: 19.9704%; height: 32.8px;\">DIG.1.3. Comunicación digital responsable</td>\n<td style=\"width: 19.9704%; height: 32.8px;\">Grupos de 4</td>\n<td style=\"width: 19.9704%; height: 32.8px;\">1 sesión</td>\n<td style=\"width: 19.9764%; height: 32.8px;\">Canva + Screencastify</td>\n</tr>\n</tbody>\n</table>\n<p><br /></p>\n<p><span style=\"text-decoration: underline;\"><strong>Recomendaciones para la implementación</strong></span></p>\n<ul>\n<li>Verificar el estado de los equipos y la conectividad antes de cada sesión.</li>\n<li>Preparar una guía de errores frecuentes de App Inventor para que el alumnado resuelva incidencias de forma autónoma.</li>\n<li>Asignar un rol rotatorio de responsable técnico en cada grupo.</li>\n<li>Tener preparada siempre una alternativa offline por si falla la red.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777882302370-4etoquoak</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777882302370-4etoquoak</odePageId>
+      <odeBlockId>block-1778144172367-t0j2atxs0</odeBlockId>
+      <blockName>Autoría y licencia</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777882302370-4etoquoak</odePageId>
+          <odeBlockId>block-1778144172367-t0j2atxs0</odeBlockId>
+          <odeIdeviceId>idevice-1778144172366-lsyjcg60i</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="text-decoration: underline;"><strong>Autor:</strong></span> Enrique Ramírez García</p>
+<p><span style="text-decoration: underline;"><strong>Centro:</strong></span> IES Profesor Pablo del Saz (Málaga, Andalucía)</p>
+<p><span style="text-decoration: underline;"><strong>Materia:</strong></span> Digitalización · 4.º ESO</p>
+<p><span style="text-decoration: underline;"><strong>Curso:</strong></span> 2025-2026</p>
+<p><span style="text-decoration: underline;"><strong>Descripción:</strong></span> Proyecto de Aprendizaje Basado en Retos en el que el alumnado de 4.º de ESO crea una aplicación móvil con MIT App Inventor para resolver un problema real de su entorno. Incluye recursos de seguridad digital, línea temporal, criterios de evaluación e instrumentos de evaluación.</p>
+<p><span style="text-decoration: underline;"><strong>Licencia:</strong></span> Creative Commons Reconocimiento - Compartir Igual 4.0 Internacional (CC BY-SA 4.0). Puedes usar, adaptar y distribuir este material siempre que cites la autoría y compartas con la misma licencia.</p>
+<p><span style="text-decoration: underline;"><strong>Herramienta de creación:</strong></span> eXeLearning 4.0 (exelearning.net)</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778144172366-lsyjcg60i","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"text-decoration: underline;\"><strong>Autor:</strong></span> Enrique Ramírez García</p>\n<p><span style=\"text-decoration: underline;\"><strong>Centro:</strong></span> IES Profesor Pablo del Saz (Málaga, Andalucía)</p>\n<p><span style=\"text-decoration: underline;\"><strong>Materia:</strong></span> Digitalización · 4.º ESO</p>\n<p><span style=\"text-decoration: underline;\"><strong>Curso:</strong></span> 2025-2026</p>\n<p><span style=\"text-decoration: underline;\"><strong>Descripción:</strong></span> Proyecto de Aprendizaje Basado en Retos en el que el alumnado de 4.º de ESO crea una aplicación móvil con MIT App Inventor para resolver un problema real de su entorno. Incluye recursos de seguridad digital, línea temporal, criterios de evaluación e instrumentos de evaluación.</p>\n<p><span style=\"text-decoration: underline;\"><strong>Licencia:</strong></span> Creative Commons Reconocimiento - Compartir Igual 4.0 Internacional (CC BY-SA 4.0). Puedes usar, adaptar y distribuir este material siempre que cites la autoría y compartas con la misma licencia.</p>\n<p><span style=\"text-decoration: underline;\"><strong>Herramienta de creación:</strong></span> eXeLearning 4.0 (exelearning.net)</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777882302370-4etoquoak</odePageId>
+      <odeBlockId>block-1778144284843-6p7dt4f0x</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777882302370-4etoquoak</odePageId>
+          <odeBlockId>block-1778144284843-6p7dt4f0x</odeBlockId>
+          <odeIdeviceId>idevice-1778144284842-y09o1dg8d</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">¿Y si tu móvil pudiera arreglarlo? Proyecto ABR con App Inventor</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Proyecto de Aprendizaje Basado en Retos para 4º de ESO en el que el alumnado crea una aplicación móvil con MIT App Inventor para resolver un problema real de su entorno.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Enrique Ramírez García</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
