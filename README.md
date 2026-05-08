@@ -1,0 +1,1 @@
+Proyecto de Aprendizaje Basado en Retos desarrollado con eXeLearning 4.0 en el que el alumnado de 4.º de ESO crea una aplicación móvil con MIT App Inventor para resolver un problema real de su entorno. Incluye recursos de seguridad digital, línea temporal, criterios de evaluación e instrumentos de evaluación.
